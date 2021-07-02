@@ -19,11 +19,11 @@
         },
         {
             "id":3,
-            "name":"P-four"
+            "name":"P-three"
         },
         {
             "id":4,
-            "name":"P-three"
+            "name":"P-four"
         },
         {
             "id":5,
@@ -34,46 +34,46 @@
         {
             "id":1,
             "data": [
-                {"task":"TASK 1", "time1": 4, "time2": 5, "time3": 2, "time4":0,"time5":8,"time6":7,"time7":0},
-                {"task":"TASK 2", "time1": 3, "time2": 7, "time3": 3, "time4":6,"time5":7,"time6":6,"time7":4},
-                {"task":"TASK 3", "time1": 6, "time2": 8, "time3": 4, "time4":5,"time5":5,"time6":5,"time7":8},
-                {"task":"TASK 4", "time1": 5, "time2": 9, "time3": 8, "time4":1,"time5":3,"time6":4,"time7":4}
+                {"task":"TASK 1", "time1": null, "time2": 5, "time3": 2, "time4":0,"time5":8,"time6":7,"time7":0},
+                {"task":"TASK 2", "time1": null, "time2": 7, "time3": 3, "time4":null,"time5":7,"time6":6,"time7":4},
+                {"task":"TASK 3", "time1": 6, "time2": 8, "time3": 4, "time4":null,"time5":5,"time6":5,"time7":8},
+                {"task":"TASK 4", "time1": null, "time2": 9, "time3": 8, "time4":null,"time5":3,"time6":4,"time7":4}
             ]
         },
         {
             "id":2,
             "data": [
-                {"task":"TASK 11", "time1": 6, "time2": 8, "time3": 2, "time4":3,"time5":5,"time6":3,"time7":4},
-                {"task":"TASK 22", "time1": 5, "time2": 8, "time3": 3, "time4":4,"time5":6,"time6":4,"time7":5},
-                {"task":"TASK 33", "time1": 6, "time2": 6, "time3": 4, "time4":6,"time5":8,"time6":5,"time7":6},
-                {"task":"TASK 44", "time1": 7, "time2": 9, "time3": 8, "time4":7,"time5":9,"time6":6,"time7":8}
+                {"task":"TASK 11", "time1": 6, "time2": null, "time3": 2, "time4":3,"time5":5,"time6":3,"time7":null},
+                {"task":"TASK 22", "time1": 5, "time2": 8, "time3": 3, "time4":4,"time5":6,"time6":4,"time7":null},
+                {"task":"TASK 33", "time1": 6, "time2": null, "time3": 4, "time4":6,"time5":8,"time6":5,"time7":null},
+                {"task":"TASK 44", "time1": 7, "time2": null, "time3": 8, "time4":7,"time5":9,"time6":6,"time7":8}
             ]
         },
         {
             "id":3,
             "data": [
-                {"task":"TASK 111", "time1": 4, "time2": 5, "time3": 2, "time4":0,"time5":5,"time6":7,"time7":0},
-                {"task":"TASK 222", "time1": 4, "time2": 9, "time3": 7, "time4":6,"time5":5,"time6":8,"time7":4},
-                {"task":"TASK 333", "time1": 4, "time2": 6, "time3": 7, "time4":5,"time5":3,"time6":5,"time7":3},
-                {"task":"TASK 444", "time1": 4, "time2": 7, "time3": 8, "time4":1,"time5":3,"time6":4,"time7":4}
+                {"task":"TASK 111", "time1": 4, "time2": null, "time3": 2, "time4":null,"time5":5,"time6":7,"time7":0},
+                {"task":"TASK 222", "time1": 4, "time2": null, "time3": 7, "time4":6,"time5":5,"time6":8,"time7":4},
+                {"task":"TASK 333", "time1": 4, "time2": null, "time3": 7, "time4":null,"time5":3,"time6":5,"time7":null},
+                {"task":"TASK 444", "time1": 4, "time2": null, "time3": 8, "time4":1,"time5":3,"time6":4,"time7":4}
             ]
         },
         {
             "id":4,
             "data": [
                 {"task":"TASK 1111", "time1": 4, "time2": 4, "time3": 5, "time4":0,"time5":8,"time6":7,"time7":0},
-                {"task":"TASK 2222", "time1": 1, "time2": 5, "time3": 8, "time4":9,"time5":7,"time6":6,"time7":4},
-                {"task":"TASK 3333", "time1": 6, "time2": 8, "time3": 9, "time4":9,"time5":5,"time6":5,"time7":8},
-                {"task":"TASK 4444", "time1": 8, "time2": 9, "time3": 4, "time4":9,"time5":3,"time6":4,"time7":4}
+                {"task":"TASK 2222", "time1": 1, "time2": 5, "time3": 8, "time4":null,"time5":7,"time6":6,"time7":4},
+                {"task":"TASK 3333", "time1": 6, "time2": 8, "time3": 9, "time4":null,"time5":5,"time6":5,"time7":8},
+                {"task":"TASK 4444", "time1": 8, "time2": 9, "time3": 4, "time4":null,"time5":3,"time6":null,"time7":4}
             ]
         },
         {
             "id":5,
             "data": [
-                {"task":"TASK 11111", "time1": 5, "time2": 5, "time3": 2, "time4":0,"time5":8,"time6":7,"time7":0},
-                {"task":"TASK 22222", "time1": 6, "time2": 7, "time3": 3, "time4":5,"time5":7,"time6":6,"time7":4},
-                {"task":"TASK 33333", "time1": 6, "time2": 8, "time3": 4, "time4":7,"time5":5,"time6":5,"time7":8},
-                {"task":"TASK 44444", "time1": 7, "time2": 9, "time3": 8, "time4":2,"time5":3,"time6":4,"time7":4}
+                {"task":"TASK 11111", "time1": 5, "time2": null, "time3": 2, "time4":0,"time5":8,"time6":7,"time7":0},
+                {"task":"TASK 22222", "time1": 6, "time2": null, "time3": 3, "time4":5,"time5":7,"time6":6,"time7":4},
+                {"task":"TASK 33333", "time1": 6, "time2": null, "time3": 4, "time4":7,"time5":5,"time6":5,"time7":8},
+                {"task":"TASK 44444", "time1": 7, "time2": null, "time3": 8, "time4":2,"time5":3,"time6":4,"time7":4}
             ]
         }
     ]
