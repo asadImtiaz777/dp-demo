@@ -7,3 +7,7 @@ To get the frontend running locally:
 To get the Json-server (Fake API) running locally:
 
 - `npx json-server --watch db.json --port 3004` in other terminal
+
+Login Info
+ - Email: admin@admin.com
+ - Pass: admin
