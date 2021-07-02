@@ -14,6 +14,7 @@ function App(){
                     <Route path="/login" component={Login} />
                     <PrivateRoute path="/record-time" component={RecordTime} />
                     <PrivateRoute path="/" component={Dashboard} />
+                    <Route component={Login} />
                 </Switch>
             </Router>
         </>
